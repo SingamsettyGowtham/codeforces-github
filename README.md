@@ -6,20 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 8 |
+| 46 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (1)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (25)
-- [math](#math) (6)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (7)
+- [constructive algorithms](#constructive-algorithms) (3)
+- [greedy](#greedy) (8)
+- [implementation](#implementation) (36)
+- [math](#math) (10)
 - [sortings](#sortings) (3)
-- [strings](#strings) (8)
+- [strings](#strings) (10)
 
 ---
 
@@ -29,6 +30,12 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
@@ -37,12 +44,17 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
+| 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 118B | [Present from Lena](https://codeforces.com/contest/118/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/118/B%20-%20Present%20from%20Lena/solution.cpp) |
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 
 ### greedy
 
@@ -52,6 +64,9 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.cpp) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2169A | [Alice and Bob](https://codeforces.com/contest/2169/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/2169/A%20-%20Alice%20and%20Bob/solution.cpp) |
 
 ### implementation
@@ -60,6 +75,7 @@
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/59/A%20-%20Word/solution.cpp) |
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
@@ -71,15 +87,25 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
 | 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/427/A%20-%20Police%20Recruits/solution.cpp) |
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.cpp) |
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
+| 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
+| 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.cpp) |
+| 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
+| 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1692/A%20-%20Marathon/solution.cpp) |
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
 | 2169A | [Alice and Bob](https://codeforces.com/contest/2169/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/2169/A%20-%20Alice%20and%20Bob/solution.cpp) |
 | 2172A | [ASCII Art Contest](https://codeforces.com/contest/2172/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/2172/A%20-%20ASCII%20Art%20Contest/solution.cpp) |
@@ -92,8 +118,12 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
+| 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 2155A | [El fucho](https://codeforces.com/contest/2155/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/2155/A%20-%20El%20fucho/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
+| 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 
 ### sortings
 
@@ -115,6 +145,8 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
+| 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 
 ---
 
