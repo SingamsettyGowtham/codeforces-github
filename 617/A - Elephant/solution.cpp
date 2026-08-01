@@ -1,0 +1,11 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+    int n; cin >> n;
+    if(n > 5){
+        n % 5 == 0 ? cout << ceil(n /5) : cout << (n / 5) + 1;
+    }
+    else{
+        cout << 1;
+    }
+}
