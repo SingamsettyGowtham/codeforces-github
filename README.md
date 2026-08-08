@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 98 | 15 |
+| 99 | 15 |
 
 ---
 
@@ -19,10 +19,10 @@
 - [constructive algorithms](#constructive-algorithms) (6)
 - [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (12)
-- [implementation](#implementation) (75)
-- [math](#math) (31)
-- [number theory](#number-theory) (2)
+- [greedy](#greedy) (13)
+- [implementation](#implementation) (76)
+- [math](#math) (32)
+- [number theory](#number-theory) (3)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (9)
 - [strings](#strings) (21)
@@ -100,6 +100,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
@@ -150,6 +151,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
@@ -204,6 +206,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
@@ -229,6 +232,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### probabilities
