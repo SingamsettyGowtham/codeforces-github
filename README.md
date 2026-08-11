@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 101 | 15 |
+| 102 | 15 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [games](#games) (1)
 - [greedy](#greedy) (14)
 - [implementation](#implementation) (76)
-- [math](#math) (34)
+- [math](#math) (35)
 - [number theory](#number-theory) (3)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (9)
@@ -218,6 +218,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
