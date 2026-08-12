@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 102 | 15 |
+| 103 | 15 |
 
 ---
 
@@ -20,11 +20,11 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (14)
-- [implementation](#implementation) (76)
+- [implementation](#implementation) (77)
 - [math](#math) (35)
 - [number theory](#number-theory) (3)
 - [probabilities](#probabilities) (1)
-- [sortings](#sortings) (9)
+- [sortings](#sortings) (10)
 - [strings](#strings) (21)
 - [ternary search](#ternary-search) (1)
 
@@ -166,6 +166,7 @@
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.cpp) |
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
+| 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1669/B%20-%20Triple/solution.cpp) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1676/A%20-%20Lucky%3F/solution.cpp) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1692/A%20-%20Marathon/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
@@ -255,6 +256,7 @@
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
+| 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1669/B%20-%20Triple/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
