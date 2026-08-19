@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 104 | 15 |
+| 105 | 15 |
 
 ---
 
@@ -17,11 +17,11 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (15)
 - [constructive algorithms](#constructive-algorithms) (6)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [games](#games) (1)
-- [greedy](#greedy) (15)
+- [greedy](#greedy) (16)
 - [implementation](#implementation) (77)
-- [math](#math) (36)
+- [math](#math) (37)
 - [number theory](#number-theory) (4)
 - [probabilities](#probabilities) (1)
 - [sortings](#sortings) (10)
@@ -85,6 +85,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
 
 ### games
 
@@ -104,6 +105,7 @@
 | 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
@@ -219,6 +221,7 @@
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
+| 1472B | [Fair Division](https://codeforces.com/contest/1472/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1472/B%20-%20Fair%20Division/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/SingamsettyGowtham/codeforces-github/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
